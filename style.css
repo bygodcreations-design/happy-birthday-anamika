@@ -4088,39 +4088,3 @@ CHAPTER 5 RESPONSIVE FIX
         height:200px;
     }
 }
-/* ===========================================
-FORCE DESKTOP MODE ON ALL DEVICES
-=========================================== */
-
-html{
-    width:1400px;
-    min-width:1400px;
-}
-
-body{
-    width:1400px;
-    min-width:1400px;
-    overflow-x:auto;
-    overflow-y:auto;
-}
-
-#hero,
-.chapter,
-#chapter1,
-#chapter2,
-#chapter3,
-#chapter4,
-#chapter5,
-#chapter6{
-    width:1400px;
-    min-width:1400px;
-}
-
-@media screen and (max-width:2000px){
-
-    html,
-    body{
-        zoom:1;
-    }
-
-}
