@@ -46,7 +46,7 @@ const BIRTHDAY_WISHES = [
     },
 
     {
-        name:"NANDANI ❤️",
+        name:"Sasu Maa ji ❤️",
         file:"assets/wishes/wish (5).MP4"
     },
 
